@@ -6,7 +6,7 @@ This is a robust command-line interface application developed in Node.js that al
 
 I developed this software to demonstrate proficiency in asynchronous JavaScript programming, recursion, and third-party API integration.
 
-**[Software Demo Video](INSERT YOUR VIDEO LINK HERE)**
+**[Software Demo Video](https://www.youtube.com/watch?v=7can4y8RehM)**
 
 ## Development Environment
 
